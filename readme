@@ -1,0 +1,37 @@
+- This program will create a pyramid of a given string, for example
+Hello world to:
+H
+He
+Hel
+Hell
+Hello
+Hello 
+Hello W
+Hello Wo
+Hello Wor
+Hello Worl
+Hello World
+Hello Worl
+Hello Wor
+Hello Wo
+Hello W
+Hello 
+Hello
+Hell
+Hel
+He
+H
+- Examples of using prefixes and suffixes
+'Hello ' - prefix
+'World' - main text
+' !' - suffix
+Result:
+Hello W !
+Hello Wo !
+Hello Wor !
+Hello Worl !
+Hello World !
+Hello Worl !
+Hello Wor !
+Hello Wo !
+Hello W !
